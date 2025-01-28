@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Nishant27-2006/veganbliss.git/static/css/main.f196265f.css",
-    "main.js": "/Nishant27-2006/veganbliss.git/static/js/main.5b747812.js",
-    "static/js/488.c2ce5927.chunk.js": "/Nishant27-2006/veganbliss.git/static/js/488.c2ce5927.chunk.js",
-    "static/media/veganmain.mp4": "/Nishant27-2006/veganbliss.git/static/media/veganmain.51deace0079f5a0e6edf.mp4",
-    "index.html": "/Nishant27-2006/veganbliss.git/index.html",
-    "main.f196265f.css.map": "/Nishant27-2006/veganbliss.git/static/css/main.f196265f.css.map",
-    "main.5b747812.js.map": "/Nishant27-2006/veganbliss.git/static/js/main.5b747812.js.map",
-    "488.c2ce5927.chunk.js.map": "/Nishant27-2006/veganbliss.git/static/js/488.c2ce5927.chunk.js.map"
+    "main.css": "/veganbliss/static/css/main.c0c208d7.css",
+    "main.js": "/veganbliss/static/js/main.a7a4b249.js",
+    "static/js/488.c2ce5927.chunk.js": "/veganbliss/static/js/488.c2ce5927.chunk.js",
+    "static/media/veganmain.mp4": "/veganbliss/static/media/veganmain.51deace0079f5a0e6edf.mp4",
+    "index.html": "/veganbliss/index.html",
+    "main.c0c208d7.css.map": "/veganbliss/static/css/main.c0c208d7.css.map",
+    "main.a7a4b249.js.map": "/veganbliss/static/js/main.a7a4b249.js.map",
+    "488.c2ce5927.chunk.js.map": "/veganbliss/static/js/488.c2ce5927.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f196265f.css",
-    "static/js/main.5b747812.js"
+    "static/css/main.c0c208d7.css",
+    "static/js/main.a7a4b249.js"
   ]
 }
