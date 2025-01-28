@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nishant27-2006/veganbliss/static/css/main.4ee39b46.css",
+    "main.js": "/Nishant27-2006/veganbliss/static/js/main.8c826871.js",
+    "static/js/488.c2ce5927.chunk.js": "/Nishant27-2006/veganbliss/static/js/488.c2ce5927.chunk.js",
+    "static/media/veganmain.mp4": "/Nishant27-2006/veganbliss/static/media/veganmain.51deace0079f5a0e6edf.mp4",
+    "index.html": "/Nishant27-2006/veganbliss/index.html",
+    "main.4ee39b46.css.map": "/Nishant27-2006/veganbliss/static/css/main.4ee39b46.css.map",
+    "main.8c826871.js.map": "/Nishant27-2006/veganbliss/static/js/main.8c826871.js.map",
+    "488.c2ce5927.chunk.js.map": "/Nishant27-2006/veganbliss/static/js/488.c2ce5927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee39b46.css",
+    "static/js/main.8c826871.js"
+  ]
+}
