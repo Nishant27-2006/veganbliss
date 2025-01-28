@@ -1,0 +1,83 @@
+/* Contact Page Styles */
+.contact {
+    padding: 4rem 2rem;
+    background-color: #f8f9fa;
+    color: #333;
+    text-align: center;
+  }
+  
+  .contact-header {
+    margin-bottom: 3rem;
+  }
+  
+  .contact-header h2 {
+    font-size: 2.5rem;
+    color: #2d6a4f;
+  }
+  
+  .contact-header p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-top: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Form Styles */
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    color: #2d6a4f;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .form-group textarea {
+    height: 150px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #52b788;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #40916c;
+  }
+  
+  /* Status Message */
+  .status-message {
+    margin-top: 1.5rem;
+    color: #2d6a4f;
+    font-weight: 600;
+  }
+  

@@ -1,0 +1,243 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600; /* Semi-Bold */
+  background-color: #fdfdfd;
+  color: #333;
+  line-height: 1.6;
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: #2d6a4f;
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #2d6a4f;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #1b4332;
+}
+
+/* Container */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Buttons */
+.btn {
+  display: inline-block;
+  background-color: #52b788;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: 600; /* Semi-Bold for Buttons */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #40916c;
+}
+
+/* Section Spacing */
+.section {
+  padding: 4rem 0;
+}
+
+/* Flexbox Utilities */
+.flex {
+  display: flex;
+  gap: 2rem;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+/* Image Styling */
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Hero Section */
+.hero {
+  position: relative;
+  background-image: url('veganmain.mp4'); /* Replace with actual image */
+  background-size: cover;
+  background-attachment: fixed; /* Parallax effect */
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 6rem 2rem;
+  height: 100vh;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4); /* Dark overlay */
+  z-index: 1;
+}
+
+.hero h2 {
+  position: relative;
+  font-size: 3.5rem;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  z-index: 2;
+}
+
+.hero p {
+  position: relative;
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  z-index: 2;
+}
+
+.hero .btn {
+  position: relative;
+  z-index: 2;
+  font-size: 1.2rem;
+  padding: 0.75rem 1.5rem;
+}
+
+/* About Us Section */
+.about-us {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.about-us img {
+  margin-top: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Testimonials Section */
+.testimonials {
+  background-color: #e9f5e9;
+  text-align: center;
+}
+
+.testimonial-slider blockquote {
+  font-size: 1.2rem;
+  font-style: italic;
+  margin: 2rem auto;
+  max-width: 700px;
+  position: relative;
+  padding: 1.5rem;
+  border-left: 4px solid #52b788;
+}
+
+.testimonial-slider cite {
+  display: block;
+  margin-top: 1rem;
+  font-weight: bold;
+  color: #2d6a4f;
+}
+
+/* Call-to-Action Section */
+.call-to-action {
+  background-color: #2d6a4f;
+  color: white;
+  text-align: center;
+}
+
+.call-to-action .btn {
+  margin-top: 1.5rem;
+  background-color: #52b788;
+}
+
+.call-to-action .btn:hover {
+  background-color: #40916c;
+}
+
+/* Footer */
+footer {
+  background-color: #2d6a4f;
+  color: white;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+footer p {
+  font-size: 0.9rem;
+}
+
+footer a {
+  color: #95d5b2;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #52b788;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero {
+    padding: 4rem 1rem;
+    height: 80vh;
+  }
+
+  .hero h2 {
+    font-size: 2.5rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+
+  .about-us {
+    padding: 2rem 1rem;
+  }
+
+  .testimonials {
+    padding: 2rem 1rem;
+  }
+
+  .testimonial-slider blockquote {
+    font-size: 1rem;
+    padding: 1rem;
+  }
+
+  .call-to-action {
+    padding: 2rem 1rem;
+  }
+
+  footer {
+    text-align: center;
+  }
+}
