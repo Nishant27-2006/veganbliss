@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/veganbliss/static/css/main.862b390e.css",
-    "main.js": "/veganbliss/static/js/main.4a6f469d.js",
+    "main.css": "/veganbliss/static/css/main.42f7a677.css",
+    "main.js": "/veganbliss/static/js/main.dd810d4f.js",
     "static/js/488.c2ce5927.chunk.js": "/veganbliss/static/js/488.c2ce5927.chunk.js",
     "static/media/veganmain.mp4": "/veganbliss/static/media/veganmain.51deace0079f5a0e6edf.mp4",
     "static/media/garden-salad.jpg": "/veganbliss/static/media/garden-salad.e5159e1cda765c6c347f.jpg",
@@ -15,6 +15,7 @@
     "static/media/chickpea-curry.jpg": "/veganbliss/static/media/chickpea-curry.7138ec297631bb7fbd26.jpg",
     "static/media/fruit-parfait.jpg": "/veganbliss/static/media/fruit-parfait.ef8cec20175378252893.jpg",
     "static/media/vegetarian-pizza.jpg": "/veganbliss/static/media/vegetarian-pizza.8c346a925ebeeb2b229a.jpg",
+    "static/media/houston-farms.jpg": "/veganbliss/static/media/houston-farms.6bfd8dfbfd599f5ed1b0.jpg",
     "static/media/sustainability.jpg": "/veganbliss/static/media/sustainability.ad5a6091fb22e716f775.jpg",
     "static/media/vegan-burger.jpg": "/veganbliss/static/media/vegan-burger.9c6c19b8c74805e1837f.jpg",
     "static/media/banana-bread.jpg": "/veganbliss/static/media/banana-bread.999b3685a6b3d2d05aed.jpg",
@@ -23,13 +24,14 @@
     "static/media/chocolate-cake.jpg": "/veganbliss/static/media/chocolate-cake.687e6453ff3d29fe3525.jpg",
     "static/media/veganbliss.png": "/veganbliss/static/media/veganbliss.ec3c06c359610840dc34.png",
     "static/media/preparation.jpg": "/veganbliss/static/media/preparation.3f97f20c427a27fa4aeb.jpg",
+    "static/media/farm.png": "/veganbliss/static/media/farm.38952490e753fc9cc58c.png",
     "index.html": "/veganbliss/index.html",
-    "main.862b390e.css.map": "/veganbliss/static/css/main.862b390e.css.map",
-    "main.4a6f469d.js.map": "/veganbliss/static/js/main.4a6f469d.js.map",
+    "main.42f7a677.css.map": "/veganbliss/static/css/main.42f7a677.css.map",
+    "main.dd810d4f.js.map": "/veganbliss/static/js/main.dd810d4f.js.map",
     "488.c2ce5927.chunk.js.map": "/veganbliss/static/js/488.c2ce5927.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.862b390e.css",
-    "static/js/main.4a6f469d.js"
+    "static/css/main.42f7a677.css",
+    "static/js/main.dd810d4f.js"
   ]
 }
