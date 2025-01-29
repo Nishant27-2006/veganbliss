@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/veganbliss/static/css/main.42f7a677.css",
-    "main.js": "/veganbliss/static/js/main.dd810d4f.js",
+    "main.js": "/veganbliss/static/js/main.da534889.js",
     "static/js/488.c2ce5927.chunk.js": "/veganbliss/static/js/488.c2ce5927.chunk.js",
     "static/media/veganmain.mp4": "/veganbliss/static/media/veganmain.51deace0079f5a0e6edf.mp4",
     "static/media/garden-salad.jpg": "/veganbliss/static/media/garden-salad.e5159e1cda765c6c347f.jpg",
@@ -27,11 +27,11 @@
     "static/media/farm.png": "/veganbliss/static/media/farm.38952490e753fc9cc58c.png",
     "index.html": "/veganbliss/index.html",
     "main.42f7a677.css.map": "/veganbliss/static/css/main.42f7a677.css.map",
-    "main.dd810d4f.js.map": "/veganbliss/static/js/main.dd810d4f.js.map",
+    "main.da534889.js.map": "/veganbliss/static/js/main.da534889.js.map",
     "488.c2ce5927.chunk.js.map": "/veganbliss/static/js/488.c2ce5927.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42f7a677.css",
-    "static/js/main.dd810d4f.js"
+    "static/js/main.da534889.js"
   ]
 }
