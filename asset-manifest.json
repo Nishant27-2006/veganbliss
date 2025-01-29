@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/veganbliss/static/css/main.f6df4161.css",
-    "main.js": "/veganbliss/static/js/main.b0e500b3.js",
+    "main.css": "/veganbliss/static/css/main.26e907d7.css",
+    "main.js": "/veganbliss/static/js/main.50526855.js",
     "static/js/488.c2ce5927.chunk.js": "/veganbliss/static/js/488.c2ce5927.chunk.js",
     "static/media/veganmain.mp4": "/veganbliss/static/media/veganmain.51deace0079f5a0e6edf.mp4",
     "static/media/vegan.png": "/veganbliss/static/media/vegan.9b6b81bab8f999e2ce0c.png",
     "index.html": "/veganbliss/index.html",
-    "main.f6df4161.css.map": "/veganbliss/static/css/main.f6df4161.css.map",
-    "main.b0e500b3.js.map": "/veganbliss/static/js/main.b0e500b3.js.map",
+    "main.26e907d7.css.map": "/veganbliss/static/css/main.26e907d7.css.map",
+    "main.50526855.js.map": "/veganbliss/static/js/main.50526855.js.map",
     "488.c2ce5927.chunk.js.map": "/veganbliss/static/js/488.c2ce5927.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6df4161.css",
-    "static/js/main.b0e500b3.js"
+    "static/css/main.26e907d7.css",
+    "static/js/main.50526855.js"
   ]
 }
